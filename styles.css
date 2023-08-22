@@ -9,7 +9,7 @@ body
 {
 	background: hsl(185, 75%, 39%);
 	min-height: 80vh;
-	width: 90%;
+	width: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
