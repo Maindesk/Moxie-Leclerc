@@ -8,7 +8,7 @@ body
 .outerbody
 {
 	background: hsl(185, 75%, 39%);
-	min-height: 70vh;
+	min-height: 100vh;
 	width: 100%;
 	display: flex;
 	align-items: center;
